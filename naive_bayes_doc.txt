@@ -1,0 +1,19 @@
+Naive bayes
+
+
+1- Load data
+ Split data in training set and testset
+
+2- Summarize 
+
+ Divide data on bases of class
+ Write functions for the mean and stad deviation
+ Find mean and deviation for each aatributes (Divide by calll as well)
+ ex  We have 3 attributes(2,4,3)
+		the mean and std devition will be like ([[m1,std1],[m2,std2],[m3,std3]])
+3- Prepare algo
+
+	write function to calculate PDF inputs : x,mean and std return: data with pdf
+	calculate combine probability by using multiple theorem of probability (Clear your doubts)
+	Store the Probability and Sort them in descending order
+	
