@@ -1,0 +1,63 @@
+Trap-Message-ID: date=20151101 time=000017 uniqid=43267
+X-Original-To: sender@acme.com
+Received: from ewsa1.prod.spamlab.nai.org (HELO ewsa1.prod.spamlab.nai.org) (10.45.88.78)
+    by trap6.prod.spamlab.nai.org (qpsmtpd/0.80) with SMTP; Sun, 01 Nov 2015 00:00:21 -0600
+Received: from (unknown [10.44.188.13]) by ewsa1.prod.spamlab.nai.org with smtp
+	 id 462d_a054_d5a10cbc_805d_11e5_a682_005056bf7c25;
+	Sun, 01 Nov 2015 00:00:20 -0600
+Received: from fe-anon-mail7.188.44.10.in-addr.arpa (HELO mail.host-my-mail.com) (10.44.188.56)
+    by mailgw4.prod.spamlab.nai.org (qpsmtpd/0.80) with ESMTP; Sun, 01 Nov 2015 00:00:20 -0600
+Received: from ksdo6.ei8om0 (HELO zda6zidu.xqh) (103.48.139.18)
+ by mail.host-my-mail.com (qpsmtpd/0.93/v0.93) with ESMTP; Sun, 01 Nov 2015 00:00:17 -0600
+Received: by zda6zidu.xqh (Postfix, from userid 1002)
+	id A3CED148D50B; Sun,  1 Nov 2015 15:00:18 +0900 (JST)
+Received: from blnwfs.vazvpukt (unknown [10.41.74.176])
+	by localhost (Postfix) with ESMTP id 85752148D4FC
+	for <sender@acme.com>; Sun,  1 Nov 2015 15:00:18 +0900 (JST)
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative; 	boundary="----=_Part_17067875_954803791.1446357616935"
+Date: Sun, 1 Nov 2015 15:00:16 +0900 (JST)
+From: keep@fasting-envision.click
+Message-ID: <dN3@5MV6fgD.com>
+MIME-Version: 1.0
+Subject: =?Shift_JIS?B?MIKMiX6CqTgsMDAwLIKMMIKMMDCJfoKpgseCwYK/gUiLTYKMLo+XgsyMu43dgoxQVIKMgsmSxyyCjInBjc+C3YLMODCWnFBUgvCJaYt2kscgicGM44FBgoyRpoKMk/qKt4KMLovgj2+XiILcgreCjILmgUiNoYLIguePh5TUkdKCjIK/lrOCjCCCtQ==?=
+To: <sender@acme.com>
+X-NAI-Spam-Flag: YES
+X-NAI-Spam-Level: *******************
+X-NAI-Spam-Threshold: 5
+X-NAI-Spam-Score: 19.2
+X-NAI-Spam-Rules: 14 Rules triggered BAD_URI_ACCEL_2=10, FROM_HAS_MIXED_NUMS3_W_UNK_BRK=1, URS_NCLKPR=1,  URS_NCLKPR_W_FROM_HAS_MIXED_NUMS3=1,  URS_NCLKPR_W_FROM_HAS_MIXED_NUMS3_W_UNK_BRK=1,  URS_NCLKPR_W_HELO_LCNMIX_DOTLC=1, URS_NCLKPR_W_UNK_BRK=1,  URS_NCLKPR_W_UNK_BRK_W_HELO_LCNMIX_DOTLC=1, UNK_BRK=0.9,  UNK_BRK_W_HELO_LCNMIX_DOTLC=0.9, FROM_HAS_MIXED_NUMS3=0.3,  HELO_LCNMIX_DOTLC=0.1, EDT_SDHA_ADR_FRG=0, RV5476=0
+X-NAI-Spam-Version: 2.3.0.9393 : core <5476> : inlines <3953> : streams
+ <1530780> : uri <2074181>
+
+------=_Part_17067875_954803791.1446357616935
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: 7bit
+
+★ALｌL 無, .料ｌ 開 催 中ｌ ★
+
+送り主ｌ桃_, 地,し,げ,るｌ さｌま
+
+0ｌ円か8,00ｌ0,0ｌ00円 かどっち？貴.女の現在PｌTに追_加済みの8ｌ0万ｌPTをｌ永ｌ久ｌ追,加ｌ後 ｌ,即日換_金出ｌ来 ｌますよ？ｌ今なら 順番待ち無し
+
+http://fasting-envision.click/DzcGAfGAjEHkMkcFLk
+
+------=_Part_17067875_954803791.1446357616935
+Content-Type: text/html; charset=Shift_JIS
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS"></head><body>
+
+★ALL 無  .料 開 催 中★<br>
+<br>
+<font color="blue">桃,,_地,し,げ,る </font>/様.の.メ.ー.ル.を お.知.ら.せ...し.ま.す<br>
+<br>
+0ｌ円 か8,ｌ00ｌ0,000円かｌｌど っち？貴 女の...
+<br>
+<br>
+<a href="http://fasting-envision.click/DzcGAfGAjEHkMkcFLk">/.内.容./チ.ェ.ッ.ク./はココ！/</a><br>
+
+</body></html>
+
+------=_Part_17067875_954803791.1446357616935--
+

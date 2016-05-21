@@ -1,0 +1,44 @@
+Trap-Message-ID: date=20160305 time=000018 uniqid=43351
+X-Original-To: bill@elipseco.com
+Received: from scm3.prod.spamlab.nai.org (HELO scm3.prod.spamlab.nai.org) (10.45.88.83)
+    by trap10.prod.spamlab.nai.org (qpsmtpd/0.80) with SMTP; Sat, 05 Mar 2016 00:00:21 -0700
+Received: from (unknown [10.44.188.11]) by scm3.prod.spamlab.nai.org with smtp
+	 id 2101_be1d_eca7ba2e_e29f_11e5_9edf_005056bf2d3a;
+	Sat, 05 Mar 2016 00:00:20 -0700
+Received: from Unknown (HELO mail.host-my-mail.com) (10.44.188.68)
+    by mailgw2.prod.spamlab.nai.org (qpsmtpd/0.80) with ESMTP; Sat, 05 Mar 2016 00:00:20 -0700
+Received: from Unknown (HELO ehost.ehostingplanet.com) (108.179.198.83)
+ by mail.host-my-mail.com (qpsmtpd/0.93/v0.93) with ESMTP; Sat, 05 Mar 2016 00:00:18 -0700
+Received: from ehostingplanet by ehost.ehostingplanet.com with local (Exim 4.86_1)
+	(envelope-from <uIidSyeGABE@yandex.ru>)
+	id 1ac6BY-0001gg-1k; Sat, 05 Mar 2016 00:59:32 -0600
+To: bill@duraseal.ru
+Subject: =?utf-8?B?0J/QviDQv9C+0LLQvtC00YMg0LLQsNC60LDQvdGB0LjQuCDRgdC40YHRgtC10LzQvdC+0LPQviDQsNC00LzQuNC90LjRgdGC0YDQsNGC0L7RgNCw?=
+From: =?utf-8?B?0KLRgNC+0YTQuNC80L7QsiDQlNCw0L3QuNC40Ls=?= <uIidSyeGABE@yandex.ru>
+Subject: =?utf-8?B?0J/QviDQv9C+0LLQvtC00YMg0LLQsNC60LDQvdGB0LjQuCDRgdC40YHRgtC10LzQvdC+0LPQviDQsNC00LzQuNC90LjRgdGC0YDQsNGC0L7RgNCw?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+Content-Transfer-Encoding: base64
+Message-Id: <E1ac6BY-0001gg-1k@ehost.ehostingplanet.com>
+Date: Sat, 05 Mar 2016 00:59:32 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ehost.ehostingplanet.com
+X-AntiAbuse: Original Domain - elipseco.com
+X-AntiAbuse: Originator/Caller UID/GID - [510 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - yandex.ru
+X-Get-Message-Sender-Via: ehost.ehostingplanet.com: authenticated_id: ehostingplanet/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: ehost.ehostingplanet.com: ehostingplanet
+X-Source: /opt/php53/bin/php-cgi
+X-Source-Args: /opt/php53/bin/php-cgi /home/ehostingplanet/public_html/verticalsitelab.com/js/lib/hostdata111.php 
+X-Source-Dir: ehostingplanet.com:/public_html/verticalsitelab.com/js/lib
+X-NAI-Spam-Flag: YES
+X-NAI-Spam-Level: **********
+X-NAI-Spam-Threshold: 5
+X-NAI-Spam-Score: 10.6
+X-NAI-Spam-Rules: 14 Rules triggered MULTI_SUBJECT=3, BAD_SIP=1, UNK_BRK_W_BAD_SIP=1,  UNK_BRK_W_UNK_BRK_W_GEN_SPAM_FEATRE=1, BAD_SIP_W_RCVD_BAD_SIP=0.9,  ENCSBNOHTNM=0.9, RCVD2FRM_NE_RCVD1BY=0.5,  RCVD2FRM_NE_RCVD1BY_W_GEN_SPAM_FEATRE=0.5,  RCVD_BAD_SIP_W_RCVD2FRM_NE_RCVD1BY=0.5, UNK_BRK=0.5,  UNK_BRK_W_GEN_SPAM_FEATRE=0.5, GEN_SPAM_FEATRE=0.2, RCVD_BAD_SIP=0.1,  RV5600=0
+X-NAI-Spam-Version: 2.3.0.9418 : core <5600> : inlines <4446> : streams
+ <1597898> : uri <2158433>
+
+
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LgoK0JXRgdC70Lgg0JLRiyDQtdGJ0LUg0LjRidC40YLQtSDRgdC40YHRgtC10LzQvdC+0LPQviDQsNC00LzQuNC90LjRgdGC0YDQsNGC0L7RgNCwIC0g0Y8g0LzQvdC1INGF0L7RgtC10LvQvtGB0Ywg0LHRiyDQv9GA0LXQtNC70L7QttC40YLRjCDRgdC10LHRjyDQsiDQutCw0YfQtdGB0YLQstC1ICLQv9GA0LjRhdC+0LTRj9GJ0LXQs9C+IiDRgdC40YHRgtC10LzQvdC+0LPQviDQsNC00LzQuNC90LjRgdGC0YDQsNGC0L7RgNCwLgoK0JzQvtCz0YMg0LLQt9GP0YLRjCDQvdCwINGB0LXQsdGPINGC0LDQutC40LUg0L7QsdGP0LfQsNC90L3QvtGB0YLQuCDQutCw0Lo6Ci0g0J7QsdGB0LvRg9C20LjQstCw0L3QuNC1INC4INC90LDRgdGC0YDQvtC50LrQsCDQvtGE0LjRgdC90YvRhSDQutC+0LzQv9GM0Y7RgtC10YDQvtCyOwotINCh0L7Qv9GA0L7QstC+0LbQtNC10L3QuNC1INGB0LXRgNCy0LXRgNC+0LIg0Lgg0L/RgNC+0LPRgNCw0LzQvNC90L7Qs9C+INC+0LHQtdGB0L/QtdGH0LXQvdC40Y87Ci0g0J7QsdGB0LvRg9C20LjQstCw0L3QuNC1INGB0LDQudGC0L7QsiDQuCDRhdC+0YHRgtC40L3Qs9CwOwotINCe0LHRg9GH0LXQvdC40LUg0JLQsNGI0LjRhSDRgdC+0YLRgNGD0LTQvdC40LrQvtCyINGA0LDQsdC+0YLQtSDRgSDQv9GA0L7Qs9GA0LDQvNC80LDQvNC4OwotINCS0L3QtdC00YDQtdC90LjQtSAxQyDQv9GA0L7Qs9GA0LDQvNC8OwotINCd0LDQu9Cw0LbRgyDRgdC40YHRgtC10LzRgyDRgdC70LXQttC10L3QuNGPINC30LAg0LLRgdC10LzQuCDQtNC10LnRgdGC0LLQuNGP0LzQuCDRgdC+0YLRgNGD0LTQvdC40LrQvtCyOwoK0JzQvtC4INGD0YHQu9GD0LPQuCDRgdGC0L7Rj9GCINGA0LXQsNC70YzQvdC+INC90LXQtNC+0YDQvtCz0L4uCtCS0YvQtdC30LQg4oCTINC/0L4g0L/QtdGA0LLQvtC80YMg0YLRgNC10LHQvtCy0LDQvdC40Y4gLSDQsdC10Lcg0L7QsdGK0Y/RgdC90LXQvdC40Y8g0L/RgNC40YfQuNC9INGBINCS0LDRiNC10Lkg0YHRgtC+0YDQvtC90YsuCgrQotC10LvQtdGE0L7QvTogKzcoNDkgOSkgNiAgIDUgICAgxrcgIH4gIDggICAgMiAg4pasICA2ICAgNCAKCtChINGD0LLQsNC20LXQvdC40LXQvCwg0JTQsNC90LjQuNC7Lg==
+

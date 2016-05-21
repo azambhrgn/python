@@ -1,0 +1,252 @@
+Trap-Message-ID: date=20160310 time=000018 uniqid=12185
+X-Original-To: jashbyye@asianwired.net
+Received: from scm1.prod.spamlab.nai.org (HELO scm1.prod.spamlab.nai.org) (10.45.88.81)
+    by trap8.prod.spamlab.nai.org (qpsmtpd/0.80) with SMTP; Thu, 10 Mar 2016 00:00:22 -0700
+Received: from (unknown [10.44.188.11]) by scm1.prod.spamlab.nai.org with smtp
+	 id 3bfa_cd88_c216f300_e68d_11e5_8936_005056bf5d76;
+	Thu, 10 Mar 2016 00:00:21 -0700
+Received: from Unknown (HELO mail.host-my-mail.com) (10.44.188.65)
+    by mailgw2.prod.spamlab.nai.org (qpsmtpd/0.80) with ESMTP; Thu, 10 Mar 2016 00:00:21 -0700
+Received: from 66-220-155-165.outcampmail.facebook.com (HELO mx-out.facebook.com) (66.220.155.165)
+ by mail.host-my-mail.com (qpsmtpd/0.93/v0.93) with ESMTP; Thu, 10 Mar 2016 00:00:18 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1457593220;
+	bh=mtuY2NkOkNz4Z8B8wqv54v44HYlHs8VbCdX41aSYmWA=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=L/WZZ8b6vvZvp+G2EpTZnnGxNF8qbIFHnMvriOLvNtrUhGELuSju648owRK/lvsNN
+	 9z8lYL71YbCm89d18Ms1kpphLoecVECHnWJy5rMqtuj1HwStH83ycukjxN3jlBE0tG
+	 P3tAgHsLTqYyN+nu9ADfObVH8PBSjv3+QjChYxN0=
+Received: from facebook.com (kzzQp82AJFzhhAqxZ9nv5wyxfhP+xMzAnmJwOFYmG0K2NhVlw7JCiGSL4dVwbOsU 10.103.99.51)
+ by facebook.com with Thrift id c0affbf6e68d11e5a6bb0002c9929988-129fa420;
+ Wed, 09 Mar 2016 23:00:20 -0800
+X-Facebook: from 2401:db00:11:805a:face:0:43:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Wed, 9 Mar 2016 23:00:20 -0800
+To: Jessica Henry <jashbyye@asianwired.net>
+Subject: You have more friends on Facebook than you think
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Return-Path: notification+kjdk_h5puhvd@facebookmail.com
+From: "Facebook" <notification+kjdk_h5puhvd@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: notification+kjdk_h5puhvd@facebookmail.com
+X-Facebook-Notify: stale_contact_import; mailid=52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS3YpA7IKI3j-WhX&u=100011162410695&mid=52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e>
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+Message-ID: <f121a766979968f62ec01abde700091b@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_f121a766979968f62ec01abde700091b"
+X-NAI-Spam-Flag: YES
+X-NAI-Spam-Level: *****
+X-NAI-Spam-Threshold: 5
+X-NAI-Spam-Score: 5.8
+X-NAI-Spam-Rules: 9 Rules triggered MFE_BAD_ALIAS=1, MFE_BAD_SUBJ=1, MFE_BAD_SUBJ=1, NAI_BAD_T=1,  NAI_BAD_T_W_MFE_BAD_SUBJ=1, BAD_HDR_SEQ=0.7, MT_BDY=0.1,  MFE_BAD_SUBJ_DEV=0, RV5605=0
+X-NAI-Spam-Version: 2.3.0.9418 : core <5605> : inlines <4472> : streams
+ <1600537> : uri <2162522>
+
+
+--b1_f121a766979968f62ec01abde700091b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Go to Facebook
+https://www.facebook.com/n/?medium=3Demail&mid=3D52dac1446c734G5af5a9cf1ec=
+7G52dac5ddcca06G32fG5a9e&bcode=3D1.1457593220.AbkKHlsYO-utHPi4&code=3D9546=
+5&n_m=3Djashbyye%40asianwired.net&lloc=3D2nd_cta
+
+
+Find Friends
+https://www.facebook.com/n/?find-friends%2F&medium=3Demail&mid=3D52dac1446=
+c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e&bcode=3D1.1457593220.AbkKHlsYO-ut=
+HPi4&code=3D95465&n_m=3Djashbyye%40asianwired.net&lloc=3D1st_cta
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Jessica,
+
+The fastest way to find all of your friends on Facebook is importing your =
+email contacts. Once you've imported your contacts you can view, manage or =
+delete them at any time.
+
+Thanks,
+The Facebook Team
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to jashbyye@asianwired.net. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS3YpA7IKI3j-WhX&u=3D100011162410695&mi=
+d=3D52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e
+Facebook, Inc., Attention: Community Support, Menlo Park, CA 94025
+
+
+--b1_f121a766979968f62ec01abde700091b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">=C2=A0 The =
+fastest way to find all of your friends on Facebook is importing your =
+email contacts. Once you&#039;ve imported your contacts you can view, =
+manage or delete them at any time. =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?find-friends%2Fbrowser%2F&amp;medium=3Demail&amp;mid=3D52dac1446c734G5af=
+5a9cf1ec7G52dac5ddcca06G32fG5a9e&amp;bcode=3D1.1457593220.AbkKHlsYO-utHPi4=
+&amp;code=3D95465&amp;n_m=3Djashbyye%40asianwired.net&amp;lloc=3Dlogo" =
+style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?find-frie=
+nds%2Fbrowser%2F&amp;medium=3Demail&amp;mid=3D52dac1446c734G5af5a9cf1ec7G5=
+2dac5ddcca06G32fG5a9e&amp;bcode=3D1.1457593220.AbkKHlsYO-utHPi4&amp;code=
+=3D95465&amp;n_m=3Djashbyye%40asianwired.net&amp;lloc=3Dlogo" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;">Find more of your friends.</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">The =
+fastest way to find all of your friends on Facebook is importing your =
+email contacts. Once you&#039;ve imported your contacts you can view, =
+manage or delete them at any time.</span></td></tr><tr style=3D""><td =
+height=3D"14" style=3D"line-height:14px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;border:solid 1px =
+#e5e5e5;border-radius:2px;padding:10px;display:block;"><table =
+cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><tr></tr><tr style=3D""><td =
+height=3D"10" style=3D"line-height:10px;">&nbsp;</td></tr></table></td></t=
+r></table></td></tr><tr style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?medium=
+=3Demail&amp;mid=3D52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e&amp;b=
+code=3D1.1457593220.AbkKHlsYO-utHPi4&amp;code=3D95465&amp;n_m=3Djashbyye%4=
+0asianwired.net&amp;lloc=3D2nd_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#c9ccd1;box-shadow:0 1px 0 rgba(0, 0, 0, =
+0.04);background:#f6f7f8;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?medium=3Demail&amp;mid=3D52dac1446c734=
+G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e&amp;bcode=3D1.1457593220.AbkKHlsYO-ut=
+HPi4&amp;code=3D95465&amp;n_m=3Djashbyye%40asianwired.net&amp;lloc=3D2nd_c=
+ta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#525252;text-shadow:0 1px 0 =
+#ffffff;font-size:14px;line-height:14px;">Go&nbsp;to&nbsp;Facebook</span><=
+/font></center></a></td></tr></table></a></td><td width=3D"10" =
+style=3D"display:block;width:10px;" =
+class=3D"mb_hide">&nbsp;&nbsp;&nbsp;</td><td class=3D"mb_blk" =
+style=3D""><a href=3D"https://www.facebook.com/n/?find-friends%2F&amp;medi=
+um=3Demail&amp;mid=3D52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e&amp=
+;bcode=3D1.1457593220.AbkKHlsYO-utHPi4&amp;code=3D95465&amp;n_m=3Djashbyye=
+%40asianwired.net&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?find-friends%2F&amp;medium=3Demail&amp=
+;mid=3D52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e&amp;bcode=3D1.145=
+7593220.AbkKHlsYO-utHPi4&amp;code=3D95465&amp;n_m=3Djashbyye%40asianwired.=
+net&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">Find&nbsp;Friends</span></font><=
+/center></a></td></tr></table></a></td><td width=3D"100%" =
+class=3D"mb_hide" style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">This =
+message was sent to <a href=3D"mailto:jashbyye&#064;asianwired.net" =
+style=3D"color:#3b5998;text-decoration:none;">jashbyye&#064;asianwired.net=
+</a>. If you don&#039;t want to receive these emails from Facebook in the =
+future, please <a href=3D"https://www.facebook.com/o.php?k=3DAS3YpA7IKI3j-=
+WhX&amp;u=3D100011162410695&amp;mid=3D52dac1446c734G5af5a9cf1ec7G52dac5ddc=
+ca06G32fG5a9e" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>. If you =
+didn&#039;t create a Facebook account using this email address, <a =
+href=3D"https://www.facebook.com/disavow_contact/?data=3DAaJdDBrc1ROjPDYMr=
+25Eh213redwsTRBPuGPQbNooLSmGk_RwWFRS35ApofZTHQoup-JhzVFpmidwiMyTN9lSLavJHs=
+YxaWHTaaldsNMGo5t71ttchz0j70mz9sGzB-oOrSb20h7YoUo2_FMJj6usq0sy48RVRG7Cs3Id=
+XVli9tpQvAa0NBlKFfB4kv3FQv1auo" =
+style=3D"color:#3b5998;text-decoration:none;">please let us know</a>.<br =
+/>Facebook, Inc., Attention: Community Support, Menlo Park, CA =
+94025</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?cn=3D7hBwkKj4aX&amp=
+;mid=3D52dac1446c734G5af5a9cf1ec7G52dac5ddcca06G32fG5a9e" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_f121a766979968f62ec01abde700091b--
+
